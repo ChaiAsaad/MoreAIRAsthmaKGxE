@@ -77,7 +77,7 @@ Distributed under the Apache License. See LICENSE.txt for more information.
 
 ## Contact
 
-Chaimae Asaad chaimae.asaad@uir.ac.ma
+Email of Chaimae Asaad: chaimae.asaad@uir.ac.ma
 
 Project Link: http://moreair.info/home
 

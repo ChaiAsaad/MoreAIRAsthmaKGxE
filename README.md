@@ -59,3 +59,30 @@ The online platform is available on : http://asthmakgxe.moreair.info/
 
 
 
+## Contributing 
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+    1. Fork the Project
+    2. Create your Feature Branch (git checkout -b feature/somethingnew)
+    3. Commit your Changes (git commit -m 'Add something new')
+    3. Push to the Branch (git push origin feature/somethingnew)
+    4. Open a Pull Request
+    
+## License
+
+Distributed under the Apache License. See LICENSE.txt for more information.
+
+## Contact
+
+Chaimae Asaad chaimae.asaad@uir.ac.ma
+
+Project Link: http://moreair.info/home
+Platform Link: http://asthmakgxe.moreair.info/
+
+## Acknowledgments
+
+All our thanks to the Belgium Ministry of cooperation and the VLIRUOS program for the grant. 
+We thank KU Leuven for their collabroation on the MoreAIR Project. 

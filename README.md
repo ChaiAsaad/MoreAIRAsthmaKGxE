@@ -31,9 +31,31 @@ The online platform is available on : http://asthmakgxe.moreair.info/
 
 ### Data Collection 
 
+| Web scraping | PMC |
+| ----------- | ----------- |
+| PMC | GxE/PMC-scraping |
+| PMed | GxE/PMC-scraping | 
+
 ### Data Processing 
 
+| Sentences | Spacy | GxE/get_sents | 
+| ----------- | ----------- | ----------- |
+| Entities | sci spacy models | NLP/get_entities_spacy |
+| Entities | Bern | NLP/get_entities_bern_async |
+| Entities | Bern | NLP/get_entities_bern_async |
+| Entities | Custom Tags | NLP/get_entities_custom |
+| Triplets | AllenNLP | NLP/relation_extraction |
+| Triplets | CoreNLP | NLP/relation_extraction |
+| Lemmatization of verbs | Spacy | NLP/proc_verbs |
+
 ### Graph Pred
+
+
+| Link Prediction | Link prediction models test | LP/ | 
+| ----------- | ----------- | ----------- |
+| Graph Completion | completion | KG/completion |
+| Graph Completion | merge | KG/merge |
+| Graph Completion | early RF model | KG/RF-LP |
 
 
 

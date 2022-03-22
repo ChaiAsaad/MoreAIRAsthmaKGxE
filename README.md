@@ -24,8 +24,9 @@ The online platform is available on : http://asthmakgxe.moreair.info/
 ### Data
 
 | MongoDB | asthma papers |
-|  | sentences |
-|  | triplets | 
+| ----------- | ----------- |
+| MongoDB | sentences |
+| MongoDB | triplets | 
 | Neo4j | Asthma KG |
 
 ### Data Collection 
